@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif"/>
+<h3 align="center">A Passionate MERN STACK developer from India</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/prakashghropade/Realtime_Chat_Application">MERN Realtime-chat Application</a>
 
