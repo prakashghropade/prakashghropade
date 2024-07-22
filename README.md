@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m completed my project of **MERN E-Commerce Website With Payment Gatway**
+- 🤝 I’m completed my project **MERN E-Commerce Website With Payment Gatway**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prakashghropade](https://github.com/prakashghropade)
   
