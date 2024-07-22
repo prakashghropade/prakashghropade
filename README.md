@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prakashghropade](https://github.com/prakashghropade)
   
-- 👨‍💻 All of my projects demo links are available at [https://vercel.com/prakash-ghorpades-projects](https://vercel.com/prakash-ghorpades-projects)
+- 👨‍💻 All of my projects demo links are available at <a href="https://vercel.com/prakash-ghorpades-projects">Vercel</a>
 
-- 💬 Ask me about **MERN Stack Development**
+- 💬 Ask me about **MERN Stack Development** 
 
-- 📫 How to reach me **prakashghorpade2001@gmail.com**
+- 📫 How to reach me <a href="www.gmail.com"> prakashghorpade2001@gmail.com </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
