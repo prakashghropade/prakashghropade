@@ -27,8 +27,8 @@
 
 <h1>My Github Stats 📊</h1>
 <div align="center">
-  <div style="display: flex;">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact" alt="prakashghropade" height="150" width="300"/>
+  <div style="display: flex"  gap="10">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact" alt="prakashghropade" height="130" width="300"/>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&" alt="prakashghropade" height="150" width="300"/>
   </div>
 </div>
