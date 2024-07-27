@@ -28,8 +28,8 @@
 <h1>My Github Stats 📊</h1>
 <div align="center">
   <div style="display: flex">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact" alt="prakashghropade" height="130" width="300"/>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&" alt="prakashghropade" height="200" width="300"/>
+   <img align="center" style="display: flex, flex-grow: 1,  text-align: center, border: 1px solid black" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact" alt="prakashghropade" height="130" width="300"/>
+   <img align="center" style="display: flex, flex-grow: 1,  text-align: center, border: 1px solid black" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&" alt="prakashghropade" height="200" width="300"/>
   </div>
   <h1> Thanks For visiting!!! </h1>
 </div>
