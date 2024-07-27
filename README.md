@@ -221,24 +221,16 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&" alt="" /></p>
-
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact" alt="7oSkaaa" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 </details>
+
+<div><h1>Thanks For Visiting !!!</h1></div>
+
 
 
