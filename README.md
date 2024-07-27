@@ -88,9 +88,10 @@
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <h3 align="center">A Passionate MERN STACK developer from India</h3>
 
+<div align="left">
 - 🔭 I’m currently working on <a href="https://github.com/prakashghropade/Realtime_Chat_Application">MERN Realtime-chat Application</a>
 
 - 🌱 I’m currently learning **DevOps**
@@ -104,7 +105,7 @@
 - 💬 Ask me about **MERN Stack Development** 
 
 - 📫 How to reach me <a href="www.gmail.com"> prakashghorpade2001@gmail.com </a>
-
+</div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
