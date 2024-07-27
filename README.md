@@ -26,6 +26,6 @@
 <h1 align="center">My Work Experience</h1>
 
 <h1>My Github Stats 📊</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact" alt="prakashghropade" height="80" width="150"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&" alt="prakashghropade" height="80" width="150"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact" alt="prakashghropade" height="100" width="250"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&" alt="prakashghropade" height="100" width="250"/></p>
 
