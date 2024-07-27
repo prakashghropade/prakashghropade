@@ -105,7 +105,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact" alt="7oSkaaa" height="230px"/>
 </details>
 
-<div><h1>Thanks For Visiting !!!</h1></div>
+<h1 align="center">Thanks For Visiting !!!</h1>
 
 
 
