@@ -31,6 +31,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact" alt="prakashghropade" height="130" width="300"/>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&" alt="prakashghropade" height="200" width="300"/>
   </div>
-  Thanks For visiting!!!
+  <h1> Thanks For visiting!!! </h1>
 </div>
 
