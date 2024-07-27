@@ -224,7 +224,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&" alt="" /></p>
 
 </details>
   
@@ -234,7 +234,6 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact" alt="7oSkaaa" height="230px"/>
 <br/>
 
