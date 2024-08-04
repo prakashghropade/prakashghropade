@@ -94,9 +94,7 @@
 
 |   Project Tittle         |  Project Github Link   |                                      Project Description                                                     |     
 |--------------------------|------------------------|--------------------------------------------------------------------------------------------------------------|           
-|   Chat Application       |  Chat Application      | The Chat Application is a web-based tool that enables users to communicate in real time. Users can create the
-                                                      account on the app, send and receive messages instantly, and manage their contact lists. Features include    
- 			    			      private messaging. The application supports media sharing, and user status updates.                          |
+|   Chat Application       |  Chat Application      | The Chat Application is a web-based tool that enables users to communicate in real time. Users can create the account on the app, send and receive messages instantly, and manage their contact lists. Features include private messaging. The application supports media sharing, and user status updates.           |
 |--------------------------|------------------------|--------------------------------------------------------------------------------------------------------------|           
                                                                                                                         
 
