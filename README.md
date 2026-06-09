@@ -90,6 +90,51 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
+<h3 align="left">  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=30px> DevOps & Cloud Skills </h3>
+
+<p align="left">
+  &emsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://kubernetes.io/" target="_blank">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://argoproj.github.io/cd/" target="_blank">
+    <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=plastic&logo=argo&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.terraform.io/" target="_blank">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=plastic&logo=terraform&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.ansible.com/" target="_blank">
+    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=plastic&logo=ansible&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.linux.org/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://prometheus.io/" target="_blank">
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=plastic&logo=prometheus&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://grafana.com/" target="_blank">
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white">
+  </a>
+</p>
+
 ## My Work Experience
 
 |   Project Tittle         |  Project Github Link   |                                      Project Description                                                     |     
