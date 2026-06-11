@@ -86,11 +86,8 @@ Here are some of the open-source DevOps projects I have worked on, demonstrating
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashghropade&show_icons=true&theme=tokyonight&count_private=true" alt="Prakash's GitHub Stats" height="195px" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Prakash's Top Languages" height="195px" />
-</p>
-<p align="center">
+  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&theme=tokyonight" alt="Prakash's Streak Stats" height="195px" />
 </p>
 
