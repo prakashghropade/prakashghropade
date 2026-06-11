@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/prakashghropade">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prakash+Ghorpade;🚀+DevOps+Engineer;☁️+Cloud+Infrastructure;🛠️+CI%2FCD+&amp;+Automation+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prakash+Ghorpade;DevOps+Engineer;Cloud+%26+Infrastructure;CI%2FCD+%26+Automation+Expert" alt="Typing SVG" />
   </a>
 </p>
 
