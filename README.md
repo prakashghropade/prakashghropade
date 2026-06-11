@@ -1,158 +1,94 @@
 <p align="center">
-  <h1 align="center">Hi, I'm Prakash Ghorpade <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
-<h3 align="left">🚀 DevOps Engineer | CI/CD | Cloud & Infrastructure Automation | India</h3>
-
-<div align="left">
-
-- 🔭 I'm currently working on **building scalable CI/CD pipelines & cloud infrastructure on AWS**
-
-- 🛠️ I specialize in **Docker, Kubernetes, Jenkins, ArgoCD, Terraform & Ansible**
-
-- ☁️ I design & manage **cloud infrastructure on AWS** with a focus on automation and reliability
-
-- 📈 I monitor production systems using **Prometheus & Grafana** for observability and alerting
-
-- 💻 I also have a strong development background in **MERN Stack** (MongoDB, Express, React, Node.js)
-
-- 👨‍💻 All of my projects are available at [https://github.com/prakashghropade](https://github.com/prakashghropade)
-
-- 💬 Ask me about **DevOps, CI/CD Pipelines, Kubernetes, AWS, Infrastructure as Code**
-
-- 📫 How to reach me <a href="mailto:prakashghorpade2001@gmail.com"> prakashghorpade2001@gmail.com </a>
-</div>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="left">
-	<a href="mailto:prakashghorpade2001@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/prakashghropade"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/prakash-ghorpade-2b4921236/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-## 🛠️ My Skills
-
-<h3 align="left"> 🚀 DevOps & Cloud Skills </h3>
-
-<p align="left">
-  &emsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://kubernetes.io/" target="_blank">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://argoproj.github.io/cd/" target="_blank">
-    <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=plastic&logo=argo&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.terraform.io/" target="_blank">
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=plastic&logo=terraform&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.ansible.com/" target="_blank">
-    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=plastic&logo=ansible&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://prometheus.io/" target="_blank">
-    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=plastic&logo=prometheus&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://grafana.com/" target="_blank">
-    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white">
+  <a href="https://github.com/prakashghropade">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prakash+Ghorpade;🚀+DevOps+Engineer;☁️+Cloud+Infrastructure;🛠️+CI%2FCD+&amp;+Automation+Expert" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="left">  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px> Other Technologies </h3>
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geeks For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-## My Work Experience
-
-|   Project Tittle         |  Project Github Link   |                                      Project Description                                                     |     
-|--------------------------|------------------------|--------------------------------------------------------------------------------------------------------------|           
-|   terraform-aws-drift-detection-infra      |  <a href="https://github.com/prakashghropade/terraform-aws-drift-detection-infra">terraform-aws-drift-detection-infra</a> | Production-grade AWS infrastructure provisioned with Terraform, featuring multi-environment remote state management, Auto Scaling, CloudWatch alarms, and drift detection across VPC, ALB, ASG, S3, and Security Groups.|
-|secure-static-website-on-aws          | <a href="https://github.com/prakashghropade/secure-static-website-on-aws">secure-static-website-on-aws</a>    | End-to-end DevOps project for hosting a secure static website on AWS with Terraform, private S3 storage, CloudFront CDN, HTTPS, and automated content deployment|      
-
-                                                                                                                        
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&" alt="" /></p>
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact" alt="7oSkaaa" height="230px"/>
-</details>
+  <strong>Transforming software delivery with automated CI/CD, robust infrastructure as code, and highly resilient cloud architectures.</strong>
+</p>
 
-<h1 align="center">Thanks For Visiting !!!</h1>
+<p align="center">
+  <a href="mailto:prakashghorpade2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prakash-ghorpade-2b4921236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/prakashghropade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
+---
 
+## ⚡ About Me
 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="55%">
+      <p>I am a passionate <strong>DevOps Engineer</strong> based in India. I focus on bridging the gap between development and operations by implementing best practices for automation, infrastructure reliability, and continuous delivery.</p>
+      <ul>
+        <li>🔭 <strong>Currently working on:</strong> Designing scalable CI/CD pipelines & cloud infrastructure on AWS.</li>
+        <li>🛠️ <strong>Key Expertise:</strong> Docker, Kubernetes, Jenkins, ArgoCD, Terraform, and Ansible.</li>
+        <li>☁️ <strong>Cloud Services:</strong> Infrastructure provision, optimization, and automation using AWS.</li>
+        <li>📈 <strong>Observability:</strong> Designing systems monitoring with Prometheus and Grafana.</li>
+        <li>💻 <strong>Development Roots:</strong> MERN Stack (MongoDB, Express, React, Node.js).</li>
+        <li>💬 <strong>Ask me about:</strong> CI/CD, GitOps, Infrastructure as Code (IaC), AWS Architecture, and Kubernetes.</li>
+      </ul>
+    </td>
+    <td valign="top" width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=prakashghropade&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" width="100%" alt="Prakash's GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ My Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & OS** | [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/) |
+| **DevOps & IaC** | [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/) [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/) |
+| **Containers & Orchestration** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/) |
+| **CI/CD & GitOps** | [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![ArgoCD](https://img.shields.io/badge/Argo_CD-FF531B?style=flat-square&logo=argo&logoColor=white)](https://argoproj.github.io/cd/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) |
+| **Observability & Alerting** | [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/) [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/) |
+| **Languages & Development** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/) [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://www.cprogramming.com/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/css/) |
+| **Databases & Tools** | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) [![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/) |
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the open-source DevOps projects I have worked on, demonstrating production-ready infrastructure as code, automated deployment strategies, and monitoring.
+
+### 🏗️ [terraform-aws-drift-detection-infra](https://github.com/prakashghropade/terraform-aws-drift-detection-infra)
+> **Production-grade AWS infrastructure provisioned with Terraform, featuring auto-remediation capability concepts & drift alerts.**
+
+*   **Architecture & Core Assets:** Custom Multi-Tier VPC, Application Load Balancers (ALB), Auto Scaling Groups (ASG), S3, Security Groups, and CloudWatch metrics.
+*   **DevOps Highlights:** 
+    *   Designed multi-environment remote state management using S3 backends with DynamoDB locking.
+    *   Structured CloudWatch Alarms to monitor and trigger alerts upon resource configuration drift.
+*   **Technologies:** `Terraform` `AWS` `VPC` `ASG` `ALB` `CloudWatch` `S3`
+
+---
+
+### 🔒 [secure-static-website-on-aws](https://github.com/prakashghropade/secure-static-website-on-aws)
+> **Fully automated, secure hosting pipeline for static web applications with HTTPS redirection & edge caching.**
+
+*   **Architecture & Core Assets:** Private S3 Bucket, CloudFront CDN, Route53, Certificate Manager (ACM), and GitHub Actions.
+*   **DevOps Highlights:** 
+    *   Implemented private bucket policies using CloudFront OAC (Origin Access Control) to restrict direct S3 access.
+    *   Created dynamic CI/CD workflows using GitHub Actions for automated linting, testing, and immediate invalidation of content cache in CloudFront.
+*   **Technologies:** `AWS` `Terraform` `S3` `CloudFront` `ACM` `GitHub Actions` `Git`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashghropade&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Prakash's Top Languages" height="195px" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashghropade&theme=tokyonight" alt="Prakash's Streak Stats" height="195px" />
+</p>
+
+---
+
+<h3 align="center">Thanks For Visiting! Let's connect and build something amazing together. 🚀</h3>
