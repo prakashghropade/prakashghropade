@@ -83,6 +83,18 @@ Here are some of the open-source DevOps projects I have worked on, demonstrating
 
 ---
 
+### 📈 [ansible-vm-metrics-monitor](https://github.com/prakashghropade/ansible-vm-metrics-monitor)
+> **A lightweight Ansible automation project designed to dynamically discover running AWS EC2 instances, collect key virtual machine resource metrics (CPU, Memory, and Disk usage), and email a consolidated, interactive, and animated HTML health report.**
+
+*   **Architecture & Core Assets:** AWS EC2 Dynamic Inventory, Ansible Playbooks, Metrics Collection Scripts, and automated HTML reporting.
+*   **DevOps Highlights:** 
+    *   Implemented dynamic inventory to automatically discover running AWS EC2 instances.
+    *   Automated extraction of memory, CPU, and disk usage metrics from remote target servers.
+    *   Integrated consolidated, interactive, and animated HTML email health reporting.
+*   **Technologies:** `Ansible` `AWS` `EC2` `YAML` `Bash` `HTML` `CSS`
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
